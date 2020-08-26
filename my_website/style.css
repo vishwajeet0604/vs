@@ -1,3 +1,6 @@
+/*This is for all body*/
+
+
 .top-container {
 	background-color: #EAF6F6;
 	position: relative;
@@ -7,6 +10,14 @@
 
 body {
 	margin: 0;
+	background-image: url(Images/background2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	text-align: center;
+	opacity: ;
+	height: 500px;
 	text-align: center;
 	font-family: 'Merriweather', serif;
 	font-size: 150%;
@@ -140,4 +151,23 @@ text-decoration: none;
 }
 .footer-link:hover{
 	color: #eaf6f6;
+}
+
+
+.lead {
+	font-family: 'Courgette', cursive;
+	font-style: italic;
+	font-size: 2rem;
+	margin-bottom: 0;
+	color: white;
+padding:10px;
+}
+
+.cover-heading {
+	margin: 100px;
+	font-weight: bold;
+	color:red;
+	font-family: 'Roboto Slab', serif;
+	margin-bottom: 0;
+	font-size: 5rem;
 }
