@@ -1,0 +1,46 @@
+/*This is for all body*/
+
+body {
+	background-image: url(images/background2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	text-align: center;
+	opacity: ;
+	height: 500px;
+
+}
+
+.cover-container {
+	max-width: 50rem;
+}
+
+.masthead-brand {
+	color: aqua;
+	font-family: 'Audiowide', cursive;
+}
+
+.cover-heading {
+	margin: 100px;
+	font-weight: bold;
+	color:red;
+	font-family: 'Roboto Slab', serif;
+	margin-bottom: 0;
+	font-size: 5rem;
+}
+
+.lead {
+	font-family: 'Courgette', cursive;
+	font-style: italic;
+	font-size: 2rem;
+	margin-bottom: 0;
+	color: white;
+padding:10px;
+}
+
+.mastfoot {
+	font-family: cursive;
+	color: whitesmoke;
+
+}
